@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeywordBuilder", "KeywordBuilder\KeywordBuilder.csproj", "{50567D48-3AD6-4418-827A-F7EC64B4C945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50567D48-3AD6-4418-827A-F7EC64B4C945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50567D48-3AD6-4418-827A-F7EC64B4C945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50567D48-3AD6-4418-827A-F7EC64B4C945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50567D48-3AD6-4418-827A-F7EC64B4C945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D37DFB2-7940-4404-99E1-6C8EAD293092}
+	EndGlobalSection
+EndGlobal
